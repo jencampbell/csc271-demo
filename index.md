@@ -2,4 +2,4 @@
 
 The Winter 2026 demo pages site.
 
-(demo.ipynb)[My notebook]
+(My notebook)[https://github.com/jencampbell/csc271-demo/blob/main/demo.ipynb]
