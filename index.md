@@ -2,4 +2,6 @@
 
 The Winter 2026 demo pages site.
 
-(My notebook)[https://github.com/jencampbell/csc271-demo/blob/main/demo.ipynb]
+[View my demo notebook on NBViewer](https://nbviewer.org/github/jencampbell/example/blob/main/demo.ipynb)
+
+[Demo Notebook from GitHub repo](demo.ipynb)
